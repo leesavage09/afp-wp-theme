@@ -1,0 +1,20 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+ .wp-block-afp-autogen-my-block {
+	background-color: #21759b;
+	color: #fff;
+	padding: 2px;
+
+	flex-grow: 1;
+	align-self: stretch;
+
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	gap: 2rem;
+}
